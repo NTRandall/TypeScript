@@ -60,6 +60,7 @@
     <TypeScriptCompile Include="Scripts\02-05-primitives.ts" />
     <TypeScriptCompile Include="Scripts\02-06-objects.ts" />
     <TypeScriptCompile Include="Scripts\02-07-functions.ts" />
+    <TypeScriptCompile Include="Scripts\02-08-interfaces.ts" />
     <TypeScriptCompile Include="Scripts\typings\knockout-2.2.d.ts" />
   </ItemGroup>
   <PropertyGroup>

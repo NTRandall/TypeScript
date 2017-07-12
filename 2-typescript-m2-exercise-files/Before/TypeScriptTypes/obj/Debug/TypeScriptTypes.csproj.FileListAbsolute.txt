@@ -1,0 +1,6 @@
+C:\Users\Nathan.Randall\Documents\Pluralsight\Typescript_Fundamentals\2-typescript-m2-exercise-files\Before\TypeScriptTypes\bin\TypeScriptTypes.dll.config
+C:\Users\Nathan.Randall\Documents\Pluralsight\Typescript_Fundamentals\2-typescript-m2-exercise-files\Before\TypeScriptTypes\bin\TypeScriptTypes.dll
+C:\Users\Nathan.Randall\Documents\Pluralsight\Typescript_Fundamentals\2-typescript-m2-exercise-files\Before\TypeScriptTypes\bin\TypeScriptTypes.pdb
+C:\Users\Nathan.Randall\Documents\Pluralsight\Typescript_Fundamentals\2-typescript-m2-exercise-files\Before\TypeScriptTypes\obj\Debug\TypeScriptTypes.csprojResolveAssemblyReference.cache
+C:\Users\Nathan.Randall\Documents\Pluralsight\Typescript_Fundamentals\2-typescript-m2-exercise-files\Before\TypeScriptTypes\obj\Debug\TypeScriptTypes.dll
+C:\Users\Nathan.Randall\Documents\Pluralsight\Typescript_Fundamentals\2-typescript-m2-exercise-files\Before\TypeScriptTypes\obj\Debug\TypeScriptTypes.pdb

@@ -58,6 +58,8 @@
     <TypeScriptCompile Include="Scripts\02-04-ambient-declarations.ts" />
     <TypeScriptCompile Include="Scripts\02-01-grammar.ts" />
     <TypeScriptCompile Include="Scripts\02-05-primitives.ts" />
+    <TypeScriptCompile Include="Scripts\02-06-objects.ts" />
+    <TypeScriptCompile Include="Scripts\02-07-functions.ts" />
     <TypeScriptCompile Include="Scripts\typings\knockout-2.2.d.ts" />
   </ItemGroup>
   <PropertyGroup>
